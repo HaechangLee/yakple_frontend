@@ -1,4 +1,4 @@
-# Yak+ (YAKPLUS)
+# YAK+ (YAKPLUS)
 <div align="center">
 <a href="https://yakplus.techlog.dev/">
 <img src="https://github.com/user-attachments/assets/765fab71-04db-4e38-8c59-f7191d531b14" width=400/>
